@@ -2,7 +2,7 @@
 
 Python interface to the LinkedIn API
 
-[![LinkedIn](http://developer.linkedin.com/sites/default/files/LinkedIn_Logo60px.png)](http://developer.linkedin.com)
+[![LinkedIn](//logo.clearbit.com/linkedin.com)](http://developer.linkedin.com)
 
 This library provides a pure Python interface to the LinkedIn **Profile**, **Group**, **Company**, **Jobs**, **Search**, **Share**, **Network** and **Invitation** REST APIs.
 
