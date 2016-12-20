@@ -5,7 +5,7 @@ Python interface to the LinkedIn API
 
 This library provides a pure Python interface to the LinkedIn **Profile**, **Group**, **Company**, **Jobs**, **Search**, **Share**, **Network** and **Invitation** REST APIs.
 
-`LinkedIn <http://developer.linkedin.com>`_ provides a service that lets people bring their LinkedIn profiles and networks with them to your site or application via their OAuth based API. This library provides a lightweight interface over a complicated LinkedIn OAuth based API to make it for python programmers easy to use.
+`LinkedIn <https://developer.linkedin.com>`_ provides a service that lets people bring their LinkedIn profiles and networks with them to your site or application via their OAuth based API. This library provides a lightweight interface over a complicated LinkedIn OAuth based API to make it for python programmers easy to use.
 
 Installation
 --------------------
@@ -89,4 +89,4 @@ This will print the authorization url to the screen. Go into this URL using a br
 
 More
 -----------------
-For more information, visit the `homepage <http://ozgur.github.com/python-linkedin/>`_ of the project.
+For more information, visit the `homepage <https://github.com/shobhit/python-linkedin/>`_ of the project.
